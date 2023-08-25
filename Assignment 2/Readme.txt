@@ -5,4 +5,6 @@
 
 ## output for 2nd Question - 2.py
 ![output 2](https://github.com/SreejaMadhagoni/NNDL/assets/143147690/3f4d491e-0fb6-4658-beb4-937b982f2897)
+
 ## output for 3rd Question - 3.py
+![output 2](https://github.com/SreejaMadhagoni/NNDL/assets/143147690/3f4d491e-0fb6-4658-beb4-937b982f2897)
