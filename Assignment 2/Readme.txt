@@ -7,4 +7,5 @@
 ![output 2](https://github.com/SreejaMadhagoni/NNDL/assets/143147690/3f4d491e-0fb6-4658-beb4-937b982f2897)
 
 ## output for 3rd Question - 3.py
-![output 2](https://github.com/SreejaMadhagoni/NNDL/assets/143147690/3f4d491e-0fb6-4658-beb4-937b982f2897)
+![output3](https://github.com/SreejaMadhagoni/NNDL/assets/143147690/f7d924c5-47f9-4a2e-b4d4-b849645f5980)
+
